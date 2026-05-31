@@ -1,4 +1,5 @@
-# Build a Stratux Europe on a Pi3, Pi4, Pi5 or Pi Zero 2W based on a fresh 64bit RasPiOS Lite Image
+# Build a Stratux Europe on a BTT CB1 based on a fresh Minimal image CB1 Armbian from
+https://github.com/bigtreetech/CB1/releases/download/V3.1.0/CB1_Debian13_minimal_kernel7.0_20260430.img.xz
 
 - shopping lists:
   - https://github.com/VirusPilot/stratux-pi4/wiki/Shopping-List-v3-TX (active cooling with fan, copper heatsink, TX module)
