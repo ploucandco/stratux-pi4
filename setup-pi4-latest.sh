@@ -4,11 +4,11 @@
 # prepare libs
 apt install \
   libjpeg62-turbo-dev \
-  libconfig9 \
-  rpi-update \
+  libconfig11 \
   dnsmasq \
   git \
   libusb-1.0-0-dev \
+  pkg-config \
   build-essential \
   autoconf \
   libtool \
@@ -17,7 +17,6 @@ apt install \
   libncurses-dev \
   python3-serial \
   jq \
-  ifplugd \
   iptables \
   libttspico-utils \
   bluez \
